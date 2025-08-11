@@ -1,6 +1,21 @@
 body {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Geist', serif;
 }
+
+.geist-normal{
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.geist-bold{
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+}
+
+
 
 
 .footer .icon-link {
@@ -129,7 +144,7 @@ body {
   background: #000000;
 }
 
-.eql-cntrb { 
+.eql-cntrb {
   font-size: smaller;
 }
 
